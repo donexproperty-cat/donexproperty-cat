@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240">
+  <defs>
+    <linearGradient id="bentoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#080b12" />
+    </linearGradient>
+
+    <linearGradient id="bentoBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.12)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.03)" />
+    </linearGradient>
+
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Plus Jakarta Sans', Roboto, Helvetica, Arial, sans-serif; }
+      .label { font-size: 10px; font-weight: 700; fill: #6366f1; letter-spacing: 1.5px; }
+      .h { font-size: 15px; font-weight: 700; fill: #f8fafc; }
+      .desc { font-size: 12px; fill: #94a3b8; line-height: 1.6; }
+      .item { font-size: 11.5px; fill: #cbd5e1; }
+    </style>
+  </defs>
+
+  <!-- Box 1: Architecture Core -->
+  <g transform="translate(8, 8)">
+    <rect width="280" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
+    <text x="20" y="32" class="mono label">01 // CORE PARADIGM</text>
+    <text x="20" y="58" class="sans h">Distributed Systems</text>
+    <text x="20" y="80" class="sans desc">Engineering asynchronous, event-driven architectures and resilient data pipelines with strict type safety.</text>
+    
+    <g transform="translate(20, 130)">
+      <text x="0" y="0" class="mono item">▸ Event Loops &amp; WebSockets</text>
+      <text x="0" y="24" class="mono item">▸ Microservice Decoupling</text>
+      <text x="0" y="48" class="mono item">▸ High-Concurrency Queues</text>
+      <text x="0" y="72" class="mono item">▸ Zero-Latency State Sync</text>
+    </g>
+  </g>
+
+  <!-- Box 2: Full-Stack Arsenal -->
+  <g transform="translate(298, 8)">
+    <rect width="284" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
+    <text x="20" y="32" class="mono label">02 // TECH ARSENAL</text>
+    <text x="20" y="58" class="sans h">Modern Engineering Stack</text>
+    <text x="20" y="80" class="sans desc">Hand-picked runtime technologies optimized for speed, developer ergonomics, and rock-solid reliability.</text>
+
+    <g transform="translate(20, 130)">
+      <text x="0" y="0" class="mono item">▸ TypeScript &amp; Node.js Ecosystem</text>
+      <text x="0" y="24" class="mono item">▸ React, Next.js &amp; Modern CSS</text>
+      <text x="0" y="48" class="mono item">▸ Python &amp; Automation Tooling</text>
+      <text x="0" y="72" class="mono item">▸ Flutter &amp; Dart Mobile Runtimes</text>
+    </g>
+  </g>
+
+  <!-- Box 3: Cloud & Operations -->
+  <g transform="translate(592, 8)">
+    <rect width="280" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
+    <text x="20" y="32" class="mono label">03 // INFRASTRUCTURE</text>
+    <text x="20" y="58" class="sans h">Cloud &amp; DevOps</text>
+    <text x="20" y="80" class="sans desc">Production Linux servers, automated reverse proxies, and self-healing daemon processes.</text>
+
+    <g transform="translate(20, 130)">
+      <text x="0" y="0" class="mono item">▸ Linux (Ubuntu/Debian) Server Admin</text>
+      <text x="0" y="24" class="mono item">▸ NGINX Reverse-Proxying &amp; SSL</text>
+      <text x="0" y="48" class="mono item">▸ PM2 Process Management</text>
+      <text x="0" y="72" class="mono item">▸ WireGuard Secure Tunneling</text>
+    </g>
+  </g>
+</svg>
