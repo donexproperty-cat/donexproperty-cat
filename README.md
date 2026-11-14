@@ -6,16 +6,16 @@
   </a>
 
   <p align="center">
+    <a href="https://donexproperty-cat.github.io">
+      <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+  </p>
+
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=donexproperty-cat&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-orange?style=flat-square" alt="Location" />
   </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=donexproperty-cat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -36,7 +36,7 @@ philosophy: "Automate everything, optimize for performance, craft with precision
 
 ---
 
-### 🚀 Featured Systems & Flagship Projects
+### 🚀 Featured Systems & Flagship Architectures
 
 <table>
   <tr>
@@ -50,7 +50,7 @@ philosophy: "Automate everything, optimize for performance, craft with precision
       </p>
       <ul>
         <li><b>High-concurrency WhatsApp bot system</b> with multi-session auth.</li>
-        <li>Real-time read/write queue handling thousands of bookings safely.</li>
+        <li>Real-time read/write queue handling thousands of concurrent interactions safely.</li>
         <li>Automated slip processing, live web admin portal, and customer hub.</li>
       </ul>
     </td>
@@ -107,7 +107,7 @@ philosophy: "Automate everything, optimize for performance, craft with precision
 
 <div align="center">
 
-#### 💻 Languages
+#### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -146,28 +146,24 @@ philosophy: "Automate everything, optimize for performance, craft with precision
 
 ---
 
-### 🐍 Contribution Activity & Snake Game
+### 🐍 Contribution Activity & Retro Snake Arcade
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 📊 Real-Time GitHub Analytics & Summaries
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=donexproperty-cat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=donexproperty-cat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=donexproperty-cat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donexproperty-cat&theme=tokyonight" alt="Profile Summary" width="48%" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donexproperty-cat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=donexproperty-cat&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donexproperty-cat&theme=tokyonight" alt="Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donexproperty-cat&theme=tokyonight" alt="Most Commit Language" width="48%" />
   </p>
 </div>
 
@@ -184,6 +180,9 @@ philosophy: "Automate everything, optimize for performance, craft with precision
 ### 🤝 Get in Touch & Connect
 
 <div align="center">
+  <a href="https://donexproperty-cat.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Website-Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
+  </a>
   <a href="https://github.com/donexproperty-cat">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -191,7 +190,7 @@ philosophy: "Automate everything, optimize for performance, craft with precision
     <img src="https://img.shields.io/badge/Email-donexproperty@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/donexproperty-cat/DONEX">
-    <img src="https://img.shields.io/badge/DONEX-Platform-6C63FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="DONEX Platform" />
+    <img src="https://img.shields.io/badge/DONEX-Platform-00B4D8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="DONEX Platform" />
   </a>
 </div>
 
