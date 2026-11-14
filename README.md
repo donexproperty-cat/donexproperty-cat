@@ -146,14 +146,6 @@ philosophy: "Automate everything, optimize for performance, craft with precision
 
 ---
 
-### 🐍 Contribution Activity & Retro Snake Arcade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
 ### 📊 Real-Time GitHub Analytics & Summaries
 
 <div align="center">
