@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/header.svg" alt="DINUJAYA - Executive Software Engineering & Systems Architecture" width="100%" />
+  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/header.svg" alt="DINUJAYA - Multi-Business Founder & CEO" width="100%" />
 
   <br><br>
 
   <p align="center">
     <a href="https://donexproperty-cat.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/EXECUTIVE_PORTFOLIO-0f1422?style=for-the-badge&logo=safari&logoColor=6366f1&labelColor=080b12" alt="Executive Portfolio" />
+      <img src="https://img.shields.io/badge/EXECUTIVE_PORTFOLIO-0f1422?style=for-the-badge&logo=safari&logoColor=10b981&labelColor=080b12" alt="Executive Portfolio" />
     </a>
     &nbsp;
     <a href="mailto:donexproperty@gmail.com">
@@ -13,7 +13,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/donexproperty-cat">
-      <img src="https://img.shields.io/badge/CODE_REPOSITORY-0f1422?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=080b12" alt="GitHub Repository" />
+      <img src="https://img.shields.io/badge/AUTOMATION_REPOS-0f1422?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=080b12" alt="GitHub Repository" />
     </a>
   </p>
 </div>
@@ -23,100 +23,78 @@
 ### `// 01. EXECUTIVE BRIEF`
 
 ```bash
-dinujaya@systems-host:~$ sysinfo --verbose
+dinujaya@enterprise-hq:~$ sysinfo --executive
 ┌───────────────────┬──────────────────────────────────────────────────────────────────┐
-│ Identity          │ Dinujaya (donexproperty-cat)                                     │
-│ Profession        │ Senior Systems Architect & Full-Stack Software Engineer          │
-│ Core Speciality   │ High-Concurrency Distributed Backends & Modern Web Applications │
-│ Location          │ Colombo, Sri Lanka (UTC +05:30)                                  │
-│ Code Philosophy   │ "Sub-millisecond latency, hexagonal architectures, clean code."  │
-│ Availability      │ High-Impact Architecture, Enterprise Engineering & Consultations │
+│ Principal         │ DINUJAYA                                                         │
+│ Title             │ Founder & CEO | Multi-Business Entrepreneur                      │
+│ Enterprise Scope  │ Directing 2 Active Corporate Ventures                            │
+│ Domain 01         │ Strategic Planning, Architectural House Plans & Property Scaling │
+│ Domain 02         │ AI Autonomous Business Bots & High-Concurrency Automations       │
+│ Base of Operation │ Colombo, Sri Lanka (UTC +05:30)                                  │
+│ Leadership Motto  │ "Plan with precision, scale with AI, automate to dominate."      │
 └───────────────────┴──────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-### `// 02. SYSTEM SPECIFICATIONS & ARCHITECTURAL PILLARS`
+### `// 02. STRATEGIC PILLARS & CORE DISCIPLINES`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/bento.svg" alt="Architectural Pillars Bento" width="100%" />
+  <img src="https://raw.githubusercontent.com/donexproperty-cat/donexproperty-cat/main/assets/bento.svg" alt="Executive Pillars Bento" width="100%" />
 </div>
 
 <br>
 
-### `// 03. TECHNICAL ARSENAL`
-
-<div align="center">
-
-#### `[ CORE RUNTIMES & PROGRAMMING LANGUAGES ]`
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111625?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-111625?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-111625?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-111625?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-111625?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/SQL-111625?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-111625?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111625?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-</p>
-
-#### `[ WEB PLATFORMS & FRAMEWORKS ]`
-<p>
-  <img src="https://img.shields.io/badge/React-111625?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111625?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-111625?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flutter-111625?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111625?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/WebSockets-111625?style=flat-square&logo=socketdotio&logoColor=ffffff" alt="WebSockets" />
-</p>
-
-#### `[ CLOUD INFRASTRUCTURE, NETWORKS & TOOLING ]`
-<p>
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-111625?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/NGINX-111625?style=flat-square&logo=nginx&logoColor=009639" alt="NGINX" />
-  <img src="https://img.shields.io/badge/Docker-111625?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/PM2_Cluster-111625?style=flat-square&logo=pm2&logoColor=2B037A" alt="PM2" />
-  <img src="https://img.shields.io/badge/Git_VCS-111625?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-111625?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-111625?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-</p>
-
-</div>
-
-<br>
-
-### `// 04. PRODUCTION ARCHITECTURAL SOLUTIONS`
+### `// 03. CORPORATE VENTURES & VENTURE HIGHLIGHTS`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 High-Scale Web Architecture</h3>
-      <p>Architecting enterprise web systems with component-driven state models, modular design tokens, server-side streaming, and CDN edge optimization.</p>
-      <code>Next.js • React • Tailwind • RESTful Endpoints</code>
+      <h3>🏢 Venture 01: Property & Strategic Planning</h3>
+      <p>
+        Leading property development, land investments, structural house planning, and comprehensive spatial layouts. Delivering end-to-end blueprint designs with mathematical precision.
+      </p>
+      <code>Strategic Planning • House Plans • Property Development • Spatial Optimization</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Asynchronous Message &amp; Event Gateways</h3>
-      <p>Building high-throughput real-time protocols, duplex WebSocket pipelines, concurrent read/write queues, and event-driven microservices.</p>
-      <code>Node.js • WebSockets • Event Loops • Concurrency Queues</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Autonomous Cloud Infrastructure</h3>
-      <p>Deploying hardened Linux environments, NGINX SSL reverse-proxy topologies, automated self-healing process daemons, and zero-trust private tunneling.</p>
-      <code>Linux / Ubuntu • NGINX • PM2 • WireGuard • SSL Hardening</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Native-Performance Mobile Systems</h3>
-      <p>Cross-platform application design utilizing Flutter &amp; Dart engines for unified Android &amp; iOS deployment with synchronized cloud data pipelines.</p>
-      <code>Flutter • Dart • Native Bridges • Real-Time Sync</code>
+      <h3>🤖 Venture 02: AI Automation & Business Bots</h3>
+      <p>
+        Building autonomous AI bot engines, multi-session WhatsApp business automation systems, and high-concurrency workflows that execute client interactions without manual intervention.
+      </p>
+      <code>AI Chatbots • WhatsApp Automation • Concurrency Queues • Autonomous Workflows</code>
     </td>
   </tr>
 </table>
 
 <br>
 
-### `// 05. TELEMETRY & METRICS`
+### `// 04. EXECUTIVE COMPETENCIES & TECH MATRIX`
+
+<div align="center">
+
+#### `[ LEADERSHIP & STRATEGIC COMPETENCIES ]`
+<p>
+  <img src="https://img.shields.io/badge/Executive_Leadership-111625?style=flat-square&logo=target&logoColor=10b981" alt="Leadership" />
+  <img src="https://img.shields.io/badge/House_&_Spatial_Planning-111625?style=flat-square&logo=blueprint&logoColor=06b6d4" alt="Planning" />
+  <img src="https://img.shields.io/badge/Multi--Business_Scaling-111625?style=flat-square&logo=affinity&logoColor=818cf8" alt="Scaling" />
+  <img src="https://img.shields.io/badge/Operations_Management-111625?style=flat-square&logo=opsgenie&logoColor=f59e0b" alt="Operations" />
+</p>
+
+#### `[ AI & AUTOMATION TECHNOLOGIES ]`
+<p>
+  <img src="https://img.shields.io/badge/AI_Business_Bots-111625?style=flat-square&logo=openai&logoColor=10b981" alt="AI Bots" />
+  <img src="https://img.shields.io/badge/WhatsApp_Automation-111625?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp Automation" />
+  <img src="https://img.shields.io/badge/Node.js_Runtimes-111625?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python_Automation-111625?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Cloud_VPS_Clusters-111625?style=flat-square&logo=ubuntu&logoColor=E95420" alt="VPS" />
+  <img src="https://img.shields.io/badge/Process_Supervision_PM2-111625?style=flat-square&logo=pm2&logoColor=2B037A" alt="PM2" />
+</p>
+
+</div>
+
+<br>
+
+### `// 05. AUTOMATION TELEMETRY`
 
 <div align="center">
   <p align="center">
@@ -131,10 +109,10 @@ dinujaya@systems-host:~$ sysinfo --verbose
 
 <div align="center">
   <p>
-    <b>DINUJAYA</b> // <i>Senior Systems Architect &amp; Software Engineer</i><br>
-    <a href="https://donexproperty-cat.github.io">Executive Portfolio</a> &nbsp;•&nbsp; 
+    <b>DINUJAYA</b> // <i>Multi-Business Founder &amp; CEO • Strategic Planning • AI Automation</i><br>
+    <a href="https://donexproperty-cat.github.io">Executive Web Hub</a> &nbsp;•&nbsp; 
     <a href="mailto:donexproperty@gmail.com">donexproperty@gmail.com</a> &nbsp;•&nbsp; 
-    <a href="https://github.com/donexproperty-cat">GitHub Core</a>
+    <a href="https://github.com/donexproperty-cat">GitHub Automation Hub</a>
   </p>
-  <sub>Designed with architectural precision, luxury minimalist aesthetics, and mathematical rigor.</sub>
+  <sub>Architected with executive elegance, strategic vision &amp; relentless innovation.</sub>
 </div>
