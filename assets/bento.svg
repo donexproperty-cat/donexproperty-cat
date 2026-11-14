@@ -20,48 +20,48 @@
     </style>
   </defs>
 
-  <!-- Box 1: Architecture Core -->
+  <!-- Box 1: Multi-Business Leadership -->
   <g transform="translate(8, 8)">
     <rect width="280" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
-    <text x="20" y="32" class="mono label">01 // CORE PARADIGM</text>
-    <text x="20" y="58" class="sans h">Distributed Systems</text>
-    <text x="20" y="80" class="sans desc">Engineering asynchronous, event-driven architectures and resilient data pipelines with strict type safety.</text>
+    <text x="20" y="32" class="mono label">01 // ENTERPRISE LEADERSHIP</text>
+    <text x="20" y="58" class="sans h">Founder &amp; CEO (2 Companies)</text>
+    <text x="20" y="80" class="sans desc">Directing dual corporate ventures spanning Property Development and Tech-Driven Automation.</text>
     
     <g transform="translate(20, 130)">
-      <text x="0" y="0" class="mono item">▸ Event Loops &amp; WebSockets</text>
-      <text x="0" y="24" class="mono item">▸ Microservice Decoupling</text>
-      <text x="0" y="48" class="mono item">▸ High-Concurrency Queues</text>
-      <text x="0" y="72" class="mono item">▸ Zero-Latency State Sync</text>
+      <text x="0" y="0" class="mono item">▸ Multi-Business Governance</text>
+      <text x="0" y="24" class="mono item">▸ Strategic Asset Scaling</text>
+      <text x="0" y="48" class="mono item">▸ Operational P&amp;L Leadership</text>
+      <text x="0" y="72" class="mono item">▸ Venture Growth &amp; Expansion</text>
     </g>
   </g>
 
-  <!-- Box 2: Full-Stack Arsenal -->
+  <!-- Box 2: Spatial & Strategic Planning -->
   <g transform="translate(298, 8)">
     <rect width="284" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
-    <text x="20" y="32" class="mono label">02 // TECH ARSENAL</text>
-    <text x="20" y="58" class="sans h">Modern Engineering Stack</text>
-    <text x="20" y="80" class="sans desc">Hand-picked runtime technologies optimized for speed, developer ergonomics, and rock-solid reliability.</text>
+    <text x="20" y="32" class="mono label">02 // STRATEGIC PLANNING</text>
+    <text x="20" y="58" class="sans h">Planning &amp; Structural Vision</text>
+    <text x="20" y="80" class="sans desc">Mastery in architectural house planning, structural layouts, and comprehensive masterplans.</text>
 
     <g transform="translate(20, 130)">
-      <text x="0" y="0" class="mono item">▸ TypeScript &amp; Node.js Ecosystem</text>
-      <text x="0" y="24" class="mono item">▸ React, Next.js &amp; Modern CSS</text>
-      <text x="0" y="48" class="mono item">▸ Python &amp; Automation Tooling</text>
-      <text x="0" y="72" class="mono item">▸ Flutter &amp; Dart Mobile Runtimes</text>
+      <text x="0" y="0" class="mono item">▸ House &amp; Structural Planning</text>
+      <text x="0" y="24" class="mono item">▸ Real Estate &amp; Land Projects</text>
+      <text x="0" y="48" class="mono item">▸ Spatial Optimization</text>
+      <text x="0" y="72" class="mono item">▸ Blueprint &amp; Execution Roadmaps</text>
     </g>
   </g>
 
-  <!-- Box 3: Cloud & Operations -->
+  <!-- Box 3: AI Automation Systems -->
   <g transform="translate(592, 8)">
     <rect width="280" height="224" rx="12" fill="url(#bentoBg)" stroke="url(#bentoBorder)" stroke-width="1.2" />
-    <text x="20" y="32" class="mono label">03 // INFRASTRUCTURE</text>
-    <text x="20" y="58" class="sans h">Cloud &amp; DevOps</text>
-    <text x="20" y="80" class="sans desc">Production Linux servers, automated reverse proxies, and self-healing daemon processes.</text>
+    <text x="20" y="32" class="mono label">03 // AI AUTOMATION</text>
+    <text x="20" y="58" class="sans h">Autonomous Bot Engines</text>
+    <text x="20" y="80" class="sans desc">Architecting intelligent AI business bots, automated WhatsApp messaging, and self-operating systems.</text>
 
     <g transform="translate(20, 130)">
-      <text x="0" y="0" class="mono item">▸ Linux (Ubuntu/Debian) Server Admin</text>
-      <text x="0" y="24" class="mono item">▸ NGINX Reverse-Proxying &amp; SSL</text>
-      <text x="0" y="48" class="mono item">▸ PM2 Process Management</text>
-      <text x="0" y="72" class="mono item">▸ WireGuard Secure Tunneling</text>
+      <text x="0" y="0" class="mono item">▸ AI WhatsApp Bots &amp; Agents</text>
+      <text x="0" y="24" class="mono item">▸ Zero-Touch Business Automations</text>
+      <text x="0" y="48" class="mono item">▸ High-Concurrency Bot Engines</text>
+      <text x="0" y="72" class="mono item">▸ Real-Time Intelligent Processing</text>
     </g>
   </g>
 </svg>
